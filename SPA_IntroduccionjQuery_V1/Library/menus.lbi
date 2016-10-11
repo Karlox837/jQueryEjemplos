@@ -1,0 +1,32 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="linea"></div>
+<div id="home"><a href="../home.html">Home</a></div>
+<div id="somos"><a href="../somos.html">SOMOS</a></div>
+<div id="fotografia"><a href="../fotografia.html">FOTOGRAFÍA</a></div>
+<div id="complementos"><a href="../complementos.html">COMPLEMENTOS</a></div>
+<div id="menuAbajo">
+<ul>
+<li><a href="../home.html"><span class="blanco">Home</span></a></li>
+<li><a href="../somos.html"><span class="gris">Somos</span></a></li>
+<li><a href="../diseno.html"><span class="blanco">Diseño</span></a></li>
+<li><a href="../desarrollo.html"><span class="gris">Desarrollo Web</span></a></li>
+<li><a href="../marketing.html"><span class="blanco">Marketing Digital</span></a></li>
+<li><a href="../decoracion.html"><span class="gris">Decoración de Interiores</span></a></li>
+<li><a href="../impresion.html"><span class="blanco">Impresión</span></a></li>
+<li><a href="../fotografia.html"><span class="gris">Fotografía</span></a></li>
+<li><a href="../complementos.html"><span class="blanco">Complementos</span></a></li>
+</ul>
+</div>
+<div id="contacto">
+  <p class="blanco"><a href="../contacto.html">Contacto</a></p>
+  <p class="gris">(0155) 6310.5719</p>
+</div>
+<div id="lab"></div>
+<div id="iconos"></div>
+<div id="feis"></div>
+<div id="twitter"></div>
+<div id="google"></div>
+<div id="mail">
+<p class="gris"><a href="../contacto.html">info@comunidadlab.com.mx</a></p>
+</div>
+<div id="derechos">&copy; 2009 Comunidad L*a*b* Derechos Reservados</div>
